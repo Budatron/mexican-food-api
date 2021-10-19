@@ -1,0 +1,32 @@
+{
+    "platillos":[
+        {
+            "id": 0,
+            "name": "Sopa de zanahoria y papa",
+            "state": "CDMX",
+            "description": "Rich legume soup with tomato broth",
+            "ingredients": ["tomatoes", "onions", "carrot", "stock", "Potatoes", "salt", "pepper", "cooking oil"],
+            "instructions": {
+                "part-one": "Cut vegetables in cubes",
+                "part-twp": "Blend half onion with 3 tomatoes and fry it with 1 spoon of cooking oil. Season to taste.",
+                "part-three": "Add water to the tomatoe/onion paste. Add vegetables.",
+                "part-four": "Boil for five minutes and low the flame to medium and cook until vegetable are coock",
+                "part-five": "Enjoy"
+            }
+        },
+        {
+            "id": 1,
+            "name": "Salsa Verde",
+            "state": "CDMX",
+            "description": "Multi-purpose spicy green salsa",
+            "ingredients": ["green tomatoes", "onions", "coriander", "serrano pepper", "garlic", "salt"],
+            "instructions": {
+                "part-one": "Version one, blend all toguether",
+                "part-twp": "Version two: Toast each ingredient and smaash each one adding to the mix one by one",
+                "part-three": "The order fo the smash mix: garlic, salt, pepper, coriander, onions, tomatoes.",
+                "part-four": "",
+                "part-five": ""
+            }
+        }
+    ]
+}
